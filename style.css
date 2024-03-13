@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(239, 239, 220);
+}
+.heading{
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    font-size: 100px;
+
+}
+img{
+    border-radius: 50%;
+}
+.describe{
+    font-family: "DM Sans", sans-serif;  
+}
+.imp{
+    font-weight: bold;
+}
+.hey{
+    font-family: "DM Sans", sans-serif;  
+}
