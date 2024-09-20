@@ -21,3 +21,21 @@ img{
 .hey{
     font-family: "DM Sans", sans-serif;  
 }
+.project-container {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .project-container:hover {
+    transform: translateY(-10px) scale(1.03);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+  }
+
+  .project-container {
+    position: relative;
+  }
+  
+  .project-content {
+    transition: transform 0.3s ease, box-shadow 0.3s ease, opacity 0.3s ease; /* Add opacity transition */
+    opacity: 1; /* Initially fully opaque */
+  }
+  
