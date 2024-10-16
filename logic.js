@@ -16,3 +16,4 @@ contactForm.addEventListener('submit', (event) => {
     // Display a success message or handle errors
     alert(`Thank you, ${name}! Your message has been sent.`);
 });
+console.log("edzsfcr");
